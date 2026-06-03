@@ -15,6 +15,9 @@ What else do you need?
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
 
+<img src="https://jwf23.github.io/assets/img/Jeremy.png" alt="Jeremy">
+<img src="https://jwf23.github.io/assets/img/Joey.png" alt="Joey">
+<img src="https://jwf23.github.io/assets/img/Chloe.jpg" alt="Chloe">
+<img src="https://jwf23.github.io/assets/img/Valentina.jpg" alt="Valentina">
 
-![Jeremy](https://jwf23.github.io//assets/img/Jeremy.jpg)
-![Joey](https://jwf23.github.io//assets/img/path.jpg)
+[//]: # (![Joey]&#40;https://jwf23.github.io//assets/img/path.jpg&#41;)
