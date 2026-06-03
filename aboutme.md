@@ -25,16 +25,16 @@ To be honest, I'm having some trouble remembering right now, so why don't you ju
     <figure>
         <img src="https://jwf23.github.io/assets/img/Joey.png" class="profile-pic" alt="Joey">
         <figcaption class="name">Joseph Fisher</figcaption>
-        <figcaption class="title">Physical Design and Manufacturing</figcaption>
+        <figcaption>Physical Design and Manufacturing</figcaption>
     </figure>
     <figure>
         <img src="https://jwf23.github.io/assets/img/Chloe.jpg" class="profile-pic" alt="Chloe">
         <figcaption class="name">Chloe Liunyan Liu"</figcaption>
-        <figcaption class="title">Composer & Sound Designer</figcaption>
+        <figcaption>Composer & Sound Designer</figcaption>
     </figure>
     <figure>
         <img src="https://jwf23.github.io/assets/img/Valentina.jpg" class="profile-pic" alt="Valentina">
         <figcaption class="name">Valentina Stanislavskaia</figcaption>
-        <figcaption class="title">Programmer and 3D Artist</figcaption>
+        <figcaption>Programmer and 3D Artist</figcaption>
     </figure>
 </div>
