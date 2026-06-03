@@ -4,6 +4,8 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
+<link rel="stylesheet" href="assets/css/PT-Game.css">
+
 My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
