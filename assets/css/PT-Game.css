@@ -19,10 +19,12 @@
 
 mainvideo
 {
+    display: flex;
     margin: auto;
-    width: 500px;
-    height: auto;
-    align-content: center;
+    width: 840px;
+    height: 471px;
+    justify-content: center;
+    align-items: center;
 }
 
 .grid-container {
@@ -59,13 +61,14 @@ cap2
 
 img.profile-pic2 {
     border-radius: 50%;
+    padding-right: 50px;
     height: 400px;
     float: left;
 }
 
 #About_Me {
+    display: flex;
     word-wrap: break-word;
     position: relative;
-    border-radius: 10px;
     vertical-align: center;
 }
