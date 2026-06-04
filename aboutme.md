@@ -5,7 +5,7 @@ subtitle: Why you'd want to go on a date with me
 ---
 
 <mainvideo>
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/A2VJnjVe7NE?si=CnQCRP-5mj9asEIv" 
+<iframe width="500px" height="auto" src="https://www.youtube.com/embed/A2VJnjVe7NE?si=CnQCRP-5mj9asEIv" 
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
 gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </mainvideo>
