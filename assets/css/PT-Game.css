@@ -24,6 +24,22 @@ figcaption.name
     font-weight: bold;
 }
 
+
+cap2
+{
+    font-weight: bold;
+}
+
+imag {
+    display: block;
+    object-fit: cover;
+}
+
+imag.profile-pic
+{
+    border-radius: 50%;
+}
+
 #photo {
     position: absolute;
     width: 50%;

@@ -55,12 +55,14 @@ To be honest, I'm having some trouble remembering right now, so why don't you ju
 </div>
 
 <div id="Photo">
-    <img src="https://jwf23.github.io/assets/img/Jeremy.png" class="profile-pic" alt="Jeremy">
+    <imag src="https://jwf23.github.io/assets/img/Jeremy.png" class="profile-pic" alt="Jeremy"></imag>
 </div>
 
 <div id="About_Me">
-  .......................................Jeremy has his masters in mechanical engineering and is a game developer with a shipped Unity title,
+            <cap2 class="name">Jeremy Zuccarello</cap2>
+            <div class="title">Team Lead and Programmer</div>
+            <p>Jeremy has his masters in mechanical engineering and is a game developer with a shipped Unity title,
             XANDO:Xtreme & Over the Top. Using his background in both fields, he bridges the gap between physical and digital
             experiences to create amusing and silly games. All of his projects have a focus in games accessibility, including
-            features such as color blindness settings and dyslexia-friendly fonts so anyone can enjoy his games.
+            features such as color blindness settings and dyslexia-friendly fonts so anyone can enjoy his games.</p>
 </div>
