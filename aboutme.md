@@ -8,6 +8,12 @@ subtitle: Why you'd want to go on a date with me
   <source src="assets/videos/Chloe_Video.mp4" type="video/mp4"/></video>
 </div>
 
+<div>
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=A2VJnjVe7NE">
+</iframe>
+</div>
+
 
 This is where we can put our bio of cool stuff that we have done since we are cool people, yup that's it don't wear it
 out because we be cool. I'm tired and can't come up with a real bio so this is what I'm typing to fill up space up here.

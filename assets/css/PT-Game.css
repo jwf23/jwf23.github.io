@@ -34,12 +34,13 @@ img.profile-pic2 {
     border-radius: 50%;
     width: 50%;
     margin-left: 0;
-    /*width: 50%;*/
-    height: 400px;
+    float: left;
+    height: auto;
     transform: scale(0.8);
 }
 
 #About_Me {
+    clear: left;
     word-wrap: break-word;
     position: relative;
     right: 0;
