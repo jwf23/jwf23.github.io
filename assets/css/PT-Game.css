@@ -1,6 +1,6 @@
 ﻿@media (min-width: 1200px) {
     .container, .container-lg, .container-md, .container-sm, .container-xl {
-        max-width: 1400px !important;
+        max-width: 1200px !important;
     }
 }
 
@@ -15,6 +15,13 @@
          flex: 0 0 100% !important; 
          max-width: 100% !important; 
     }
+}
+
+mainvideo
+{
+    margin: auto;
+    width: 100%;
+    height: auto;
 }
 
 .grid-container {
@@ -52,7 +59,6 @@ cap2
 img.profile-pic2 {
     border-radius: 50%;
     width: 40%;
-    margin-left: 0;
     left: 0;
 }
 

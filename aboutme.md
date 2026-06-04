@@ -4,11 +4,11 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-<div align="center">
+<mainvideo>
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/A2VJnjVe7NE?si=CnQCRP-5mj9asEIv" 
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
 gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+</mainvideo>
 
 
 This is where we can put our bio of cool stuff that we have done since we are cool people, yup that's it don't wear it
