@@ -61,11 +61,8 @@ you're the only person who will have had a chance to read this. If I don't by th
     </figure>
 </div>
 
-<div>
-    <img src="https://jwf23.github.io/assets/img/Jeremy.png" class="profile-pic2" alt="Jeremy">
-</div>
-
 <div id="About_Me">
+            <img src="https://jwf23.github.io/assets/img/Jeremy.png" class="profile-pic2" alt="Jeremy">
             <p></p>
             <cap2 class="name">Jeremy Zuccarello,Team Lead and Programmer </cap2>
             <div>Jeremy has his masters in mechanical engineering and is a game developer with a shipped Unity title,

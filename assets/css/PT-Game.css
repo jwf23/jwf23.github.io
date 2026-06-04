@@ -32,15 +32,11 @@ cap2
 
 img.profile-pic2 {
     border-radius: 50%;
-    width: 50%;
-    margin-left: 0;
-    float: left;
-    height: auto;
-    transform: scale(0.8);
+    width: 40%;
+    left: 0;
 }
 
 #About_Me {
-    clear: left;
     word-wrap: break-word;
     position: relative;
     right: 0;
