@@ -61,10 +61,12 @@ you're the only person who will have had a chance to read this. If I don't by th
 
 <div id="About_Me">
             <img src="https://jwf23.github.io/assets/img/Jeremy.png" class="profile-pic2" alt="Jeremy">
-            <p></p>
-            <cap2 class="name">Jeremy Zuccarello,Team Lead and Programmer </cap2>
-            <div>Jeremy has his masters in mechanical engineering and is a game developer with a shipped Unity title,
-            XANDO:Xtreme & Over the Top. Using his background in both fields, he bridges the gap between physical and digital
-            experiences to create amusing and silly games. All of his projects have a focus in games accessibility, including
-            features such as color blindness settings and dyslexia-friendly fonts so anyone can enjoy his games.</div>
+            <about-text>
+                <cap2 class="name">Jeremy Zuccarello,Team Lead and Programmer </cap2>
+                <div>Jeremy has his masters in mechanical engineering and is a game developer with a shipped Unity title,
+                XANDO:Xtreme & Over the Top. Using his background in both fields, he bridges the gap between physical and digital
+                experiences to create amusing and silly games. All of his projects have a focus in games accessibility, including
+                features such as color blindness settings and dyslexia-friendly fonts so anyone can enjoy his games.</div>
+            </about-text>
+
 </div>

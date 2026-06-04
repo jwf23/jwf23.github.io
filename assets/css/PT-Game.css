@@ -59,15 +59,18 @@ cap2
 
 img.profile-pic2 {
     border-radius: 50%;
-    padding-right: 50px;
-    height: 400px;
+    margin-right: 50px;
+    height: 300px;
     float: left;
 }
 
 #About_Me {
     display: block;
-    margin-top: 100px;
+    margin-top: 125px;
     word-wrap: break-word;
     position: relative;
-    border-radius: 10px;
+}
+
+about-text
+{
 }
