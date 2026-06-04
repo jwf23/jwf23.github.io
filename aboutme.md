@@ -4,6 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
+<video controls width="250">
+  <source src="assets/videos/test" type="video/webm" />
+
+
 This is where we can put our bio of cool stuff that we have done since we are cool people, yup that's it don't wear it
 out because we be cool. I'm tired and can't come up with a real bio so this is what I'm typing to fill up space up here.
 Now you may be wondering why I didn't just use lorem ipsum or something and to that I say shut the hell up, let me do my

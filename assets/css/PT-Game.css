@@ -31,9 +31,7 @@ cap2
 }
 
 imag {
-    display: block;
-    object-fit: cover;
-    position: absolute;
+    margin-left: 0;
     width: 50%;
     height: 400px;
     transform: scale(0.8);
@@ -42,10 +40,6 @@ imag {
 imag.profile-pic
 {
     border-radius: 50%;
-}
-
-#photo {
-
 }
 
 #About_Me {
