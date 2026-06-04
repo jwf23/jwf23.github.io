@@ -42,7 +42,7 @@ imag.profile-pic
 
 #photo {
     position: absolute;
-    width: 50%;
+    width: 400px;
     height: 400px;
     transform: scale(0.8);
 }
@@ -50,8 +50,6 @@ imag.profile-pic
 #About_Me {
     word-wrap: break-word;
     position: relative;
-    color: white;
     right: 0;
-    background-color: rgb(255, 38, 0);
     border-radius: 10px;
 }
