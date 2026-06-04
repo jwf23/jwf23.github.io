@@ -1,4 +1,10 @@
-﻿.grid-container {
+﻿
+body, html {
+    margin-left:5%;
+    margin-right:6%;
+}
+
+.grid-container {
     display: grid;
     grid-template-columns: 50% 50%;
     gap: 50px;
