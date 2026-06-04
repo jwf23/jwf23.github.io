@@ -22,6 +22,7 @@ mainvideo
     margin: auto;
     width: 500px;
     height: auto;
+    align-content: center;
 }
 
 .grid-container {
@@ -58,7 +59,7 @@ cap2
 
 img.profile-pic2 {
     border-radius: 50%;
-    width: 40%;
+    height: 400px;
     float: left;
 }
 
@@ -66,4 +67,5 @@ img.profile-pic2 {
     word-wrap: break-word;
     position: relative;
     border-radius: 10px;
+    vertical-align: center;
 }
