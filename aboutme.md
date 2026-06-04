@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-<div><video controls width="100%">
+<div><video controls width="100%" height="100%">
   <source src="assets/videos/Chloe_Video.mp4" type="video/mp4"/></video>
 </div>
 
@@ -56,7 +56,7 @@ you're the only person who will have had a chance to read this. If I don't by th
 </div>
 
 <div>
-    <img src="https://jwf23.github.io/assets/img/Jeremy.png" class="profile-pic2" alt="Jeremy"></img>
+    <img src="https://jwf23.github.io/assets/img/Jeremy.png" class="profile-pic2" alt="Jeremy">
 </div>
 
 <div id="About_Me">
