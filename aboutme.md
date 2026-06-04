@@ -5,7 +5,8 @@ subtitle: Why you'd want to go on a date with me
 ---
 
 <div><video controls width="100%">
-  <source src="assets/videos/Chloe_Video.mp4" type="video/mp4"/></div>
+  <source src="assets/videos/Chloe_Video.mp4" type="video/mp4"/></video>
+</div>
 
 
 This is where we can put our bio of cool stuff that we have done since we are cool people, yup that's it don't wear it
@@ -55,7 +56,7 @@ you're the only person who will have had a chance to read this. If I don't by th
 </div>
 
 <div>
-    <imag src="https://jwf23.github.io/assets/img/Jeremy.png" class="profile-pic" alt="Jeremy"></imag>
+    <img src="https://jwf23.github.io/assets/img/Jeremy.png" class="profile-pic2" alt="Jeremy"></img>
 </div>
 
 <div id="About_Me">
