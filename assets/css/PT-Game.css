@@ -32,6 +32,11 @@ cap2
 
 imag {
     display: block;
+    object-fit: cover;
+    position: absolute;
+    width: 50%;
+    height: 400px;
+    transform: scale(0.8);
 }
 
 imag.profile-pic
@@ -40,8 +45,7 @@ imag.profile-pic
 }
 
 #photo {
-    width: 50%;
-    height: 400px;
+
 }
 
 #About_Me {

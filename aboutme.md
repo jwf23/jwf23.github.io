@@ -50,11 +50,12 @@ you're the only person who will have had a chance to read this. If I don't by th
     </figure>
 </div>
 
-<div id="Photo">
-    <imag src="https://jwf23.github.io/assets/img/Jeremy.png" alt="Jeremy"></imag>
+<div>
+    <imag src="https://jwf23.github.io/assets/img/Jeremy.png" class="profile-pic" alt="Jeremy"></imag>
 </div>
 
 <div id="About_Me">
+            <p></p>
             <cap2 class="name">Jeremy Zuccarello,Team Lead and Programmer </cap2>
             <div>Jeremy has his masters in mechanical engineering and is a game developer with a shipped Unity title,
             XANDO:Xtreme & Over the Top. Using his background in both fields, he bridges the gap between physical and digital
