@@ -4,12 +4,8 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-<div><video controls width="100%" height="100%">
-  <source src="assets/videos/Chloe_Video.mp4" type="video/mp4"></video>
-</div>
-
-<div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A2VJnjVe7NE?si=CnQCRP-5mj9asEIv" 
+<div align="center">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/A2VJnjVe7NE?si=CnQCRP-5mj9asEIv" 
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
 gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
