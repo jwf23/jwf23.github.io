@@ -21,6 +21,8 @@ Now you may be wondering why I didn't just use lorem ipsum or something and to t
 thing and live my life. I don't care if you get me or not, I really don't.... You get me, right? You better you pickle
 eating punk! You better! That's right Joey, I'm writing this for you because unless I forget to get back to this by Friday
 you're the only person who will have had a chance to read this. If I don't by then, then I guess it's for everyone.
+<p></p>
+<p></p>
 
 <div class="grid-container">
     <figure>
