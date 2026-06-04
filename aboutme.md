@@ -3,8 +3,8 @@ layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
 ---
-ffmpeg -i assets/videos/Chloe_Video.mp4 -vcodec h264 assets/videos/Chloe_Video.mp4
 
+<bod>
 <div><video controls width="100%" height="100%">
   <source src="assets/videos/Chloe_Video.mp4" type="video/mp4"></video>
 </div>
@@ -71,3 +71,4 @@ you're the only person who will have had a chance to read this. If I don't by th
             experiences to create amusing and silly games. All of his projects have a focus in games accessibility, including
             features such as color blindness settings and dyslexia-friendly fonts so anyone can enjoy his games.</div>
 </div>
+</bod>
