@@ -6,13 +6,13 @@
 
 @media (min-width: 1200px) {
     .offset-xl-2 {
-        margin-left: 10% !important;
-        margin-right: 10% !important;
+        margin-left: 7% !important;
+        margin-right: 7% !important;
     }
 }
 @media (min-width: 1200px) {
     .col-xl-8 {
-         flex: 0 0 100% !important; 
+         flex: 100% !important; 
          max-width: 100% !important; 
     }
 }
@@ -26,8 +26,8 @@ mainvideo
 
 .grid-container {
     display: grid;
-    grid-template-columns: 50% 50%;
-    gap: 50px;
+    grid-template-columns: 47.5% 47.5%;
+    gap: 5%;
 }
 figure {
     margin: 0;
@@ -59,12 +59,11 @@ cap2
 img.profile-pic2 {
     border-radius: 50%;
     width: 40%;
-    left: 0;
+    float: left;
 }
 
 #About_Me {
     word-wrap: break-word;
     position: relative;
-    right: 0;
     border-radius: 10px;
 }
