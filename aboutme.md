@@ -3,9 +3,10 @@ layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
 ---
+ffmpeg -i assets/videos/Chloe_Video.mp4 -vcodec h264 assets/videos/Chloe_Video.mp4
 
 <div><video controls width="100%" height="100%">
-  <source src="assets/videos/Chloe_Video.mp4" type="video/mp4"/></video>
+  <source src="assets/videos/Chloe_Video.mp4" type="video/mp4"></video>
 </div>
 
 <div>

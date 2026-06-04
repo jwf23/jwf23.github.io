@@ -1,7 +1,6 @@
 ﻿
 body, html {
-    margin-left:5%;
-    margin-right:6%;
+    max-width: 1000px;
 }
 
 .grid-container {
