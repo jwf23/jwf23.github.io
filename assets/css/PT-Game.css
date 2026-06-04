@@ -23,3 +23,19 @@ figcaption.name
 {
     font-weight: bold;
 }
+
+#photo {
+    position: absolute;
+    width: 50%;
+    height: 400px;
+    transform: scale(0.8);
+}
+
+#About_Me {
+    word-wrap: break-word;
+    position: relative;
+    color: white;
+    right: 0;
+    background-color: rgb(255, 38, 0);
+    border-radius: 10px;
+}
