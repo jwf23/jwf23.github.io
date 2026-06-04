@@ -4,8 +4,8 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-<video controls width="250">
-  <source src="assets/videos/Chloe_Video.mp4" type="video/mp4" />
+<div><video controls width="100%">
+  <source src="assets/videos/Chloe_Video.mp4" type="video/mp4"/></div>
 
 
 This is where we can put our bio of cool stuff that we have done since we are cool people, yup that's it don't wear it
