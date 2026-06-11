@@ -70,7 +70,7 @@ img.profile-pic2 {
     align-items: center;
     word-wrap: break-word;
     position: relative;
-    height: 25vw;
+    height: 300px;
 }
 
 about-text
@@ -83,16 +83,51 @@ about-text
 
 @media (max-width: 990px) {
     about-text {
-        font-size: 2.5vw;
+        font-size: 1.7vw;
     }
     
     img.profile-pic2
     {
         margin-right: 15px;
-        height: 40vw;
+        height: 30vw;
     }
 
     #About_Me {
-        height: 60vw;
+        height: 35vw;
+    }
+}
+
+@media (max-width: 767px) {
+    about-text {
+        font-size: 2.2vw;
+    }
+
+    img.profile-pic2
+    {
+        margin-right: 15px;
+        height: 30vw;
+    }
+
+    #About_Me {
+        height: 35vw;
+    }
+}
+
+@media (max-width: 550px) {
+    about-text {
+        font-size: 4vw;
+        text-align: center;
+    }
+
+    img.profile-pic2
+    {
+        margin-top: 5vw;
+        margin-right: 15px;
+        height: 35vw;
+    }
+
+    #About_Me {
+        height: 120vw;
+        flex-direction: column;
     }
 }
