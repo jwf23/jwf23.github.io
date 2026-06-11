@@ -136,17 +136,17 @@ keywords: "PT, physical therapy, games, VR"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#A7F6AE"
+page-col: "#e0ffe2"
 text-col: "#404040"
 link-col: "#008AFF"
-hover-col: "#000000"
-navbar-col: "#70bd79"
+hover-col: "#0047b3"
+navbar-col: "#a9c6ab"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#3D4A3D"
-footer-col: "#70BD79"
+footer-col: "#a9c6ab"
 footer-text-col: "#FFFFFF"
-footer-link-col: "#404040"
-footer-hover-col: "#000000"
+footer-link-col: "#4F4F4F"
+footer-hover-col: "#0047b3"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
