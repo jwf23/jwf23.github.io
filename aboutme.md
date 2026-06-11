@@ -5,7 +5,7 @@ subtitle: Why you'd want to go on a date with me
 ---
 
 <mainvideo>
-<iframe width="840px" height="471" src="https://www.youtube.com/embed/A2VJnjVe7NE?si=CnQCRP-5mj9asEIv" 
+<iframe width="840px" height="471" src="https://www.youtube.com/watch?v=i_45x4wkPHw" 
 title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
 gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </mainvideo>
@@ -20,86 +20,125 @@ you're the only person who will have had a chance to read this. If I don't by th
 <p></p>
 <p></p>
 
-<div class="grid-container">
-    <figure>
-        <img src="https://jwf23.github.io/assets/img/Jeremy.png" class="profile-pic" alt="Jeremy">
-        <figcaption class="name">Jeremy Zuccarello</figcaption>
-        <figcaption class="title">Team Lead and Programmer</figcaption>
-        <figcaption>Jeremy has his masters in mechanical engineering and is a game developer with a shipped Unity title,
-            XANDO:Xtreme & Over the Top. Using his background in both fields, he bridges the gap between physical and digital
-            experiences to create amusing and silly games. All of his projects have a focus in games accessibility, including
-            features such as color blindness settings and dyslexia-friendly fonts so anyone can enjoy his games.</figcaption>
-    </figure>
-    <figure>
-        <img src="https://jwf23.github.io/assets/img/Joey.png" class="profile-pic" alt="Joey">
-        <figcaption class="name">Joey Fisher</figcaption>
-        <figcaption>Physical Design and Manufacturing</figcaption>
-        <figcaption>Joey has his PhD in mechanical engineer with experience in designing, manufacturing, and integrating
-            systems to solve complex engineering problems. He has worked with metals, wood, and plastics using manufacturing
-            techniques such as 3D printing, resin casting, laser cutting, and more. Joey can also use microcontrollers and
-            software such as C++, Arduino, and Python to integrate his physical systems into digital systems.</figcaption>
-    </figure>
-    <figure>
-        <img src="https://jwf23.github.io/assets/img/Chloe.jpg" class="profile-pic" alt="Chloe">
-        <figcaption class="name">Chloe Liunyan Liu"</figcaption>
-        <figcaption>Composer & Sound Designer</figcaption>
-        <figcaption>Chloe is a composer and sound artist who explores the relationship between sound and movement. Her work
-            spans interactive electronic performance, concert music, and storytelling for film, animation, and games. She
-            creates immersive experiences that connect technology with human expression. Her work has been presented at 
-            festivals including Tribeca Festival and the Festival of Animation Berlin.</figcaption>
-    </figure>
-    <figure>
-        <img src="https://jwf23.github.io/assets/img/Valentina.jpg" class="profile-pic" alt="Valentina">
-        <figcaption class="name">Valentina Stanislavskaia</figcaption>
-        <figcaption>Programmer and 3D Artist</figcaption>
-        <figcaption>Valentina is a game developer and artist at Wirescribe Corp, where She has shipped two Unity titles,
-            Unwound and Fable Forts!, where she led multidisciplinary teams. Her work spans art direction, level design,
-            and systems engineering. As an engineer, she has worked on a variety low-level systems ranging from custom
-            game tooling to automated difficulty balancing.</figcaption>
-    </figure>
-</div>
+[//]: # (<div class="grid-container">)
+
+[//]: # (    <figure>)
+
+[//]: # (        <img src="https://jwf23.github.io/assets/img/Jeremy.png" class="profile-pic" alt="Jeremy">)
+
+[//]: # (        <figcaption class="name">Jeremy Zuccarello</figcaption>)
+
+[//]: # (        <figcaption class="title">Team Lead and Programmer</figcaption>)
+
+[//]: # (        <figcaption>Jeremy has his masters in mechanical engineering and is a game developer with a shipped Unity title,)
+
+[//]: # (            XANDO:Xtreme & Over the Top. Using his background in both fields, he bridges the gap between physical and digital)
+
+[//]: # (            experiences to create amusing and silly games. All of his projects have a focus in games accessibility, including)
+
+[//]: # (            features such as color blindness settings and dyslexia-friendly fonts so anyone can enjoy his games.</figcaption>)
+
+[//]: # (    </figure>)
+
+[//]: # (    <figure>)
+
+[//]: # (        <img src="https://jwf23.github.io/assets/img/Joey.png" class="profile-pic" alt="Joey">)
+
+[//]: # (        <figcaption class="name">Joey Fisher</figcaption>)
+
+[//]: # (        <figcaption>Physical Design and Manufacturing</figcaption>)
+
+[//]: # (        <figcaption>Joey has his PhD in mechanical engineer with experience in designing, manufacturing, and integrating)
+
+[//]: # (            systems to solve complex engineering problems. He has worked with metals, wood, and plastics using manufacturing)
+
+[//]: # (            techniques such as 3D printing, resin casting, laser cutting, and more. Joey can also use microcontrollers and)
+
+[//]: # (            software such as C++, Arduino, and Python to integrate his physical systems into digital systems.</figcaption>)
+
+[//]: # (    </figure>)
+
+[//]: # (    <figure>)
+
+[//]: # (        <img src="https://jwf23.github.io/assets/img/Chloe.jpg" class="profile-pic" alt="Chloe">)
+
+[//]: # (        <figcaption class="name">Chloe Liunyan Liu</figcaption>)
+
+[//]: # (        <figcaption>Composer & Sound Designer</figcaption>)
+
+[//]: # (        <figcaption>Chloe is a composer and sound artist who explores the relationship between sound and movement. Her work)
+
+[//]: # (            spans interactive electronic performance, concert music, and storytelling for film, animation, and games. She)
+
+[//]: # (            creates immersive experiences that connect technology with human expression. Her work has been presented at )
+
+[//]: # (            festivals including Tribeca Festival and the Festival of Animation Berlin.</figcaption>)
+
+[//]: # (    </figure>)
+
+[//]: # (    <figure>)
+
+[//]: # (        <img src="https://jwf23.github.io/assets/img/Valentina.jpg" class="profile-pic" alt="Valentina">)
+
+[//]: # (        <figcaption class="name">Valentina Stanislavskaia</figcaption>)
+
+[//]: # (        <figcaption>Programmer and 3D Artist</figcaption>)
+
+[//]: # (        <figcaption>Valentina is a game developer and artist at Wirescribe Corp, where she has shipped two Unity titles,)
+
+[//]: # (            Unwound and Fable Forts!, where she led multidisciplinary teams. Her work spans art direction, level design,)
+
+[//]: # (            and systems engineering. As an engineer, she has worked on a variety low-level systems ranging from custom)
+
+[//]: # (            game tooling to automated difficulty balancing.</figcaption>)
+
+[//]: # (    </figure>)
+
+[//]: # (</div>)
+
+[//]: # ()
 
 <div id="About_Me">
             <img src="https://jwf23.github.io/assets/img/Jeremy.png" class="profile-pic2" alt="Jeremy">
             <about-text>
-                <cap2 class="name">Jeremy Zuccarello,Team Lead and Programmer </cap2>
+                <cap2 class="name">Jeremy Zuccarello, Team Lead and Programmer</cap2>
                 <div>Jeremy has his masters in mechanical engineering and is a game developer with a shipped Unity title,
                 XANDO:Xtreme & Over the Top. Using his background in both fields, he bridges the gap between physical and digital
                 experiences to create amusing and silly games. All of his projects have a focus in games accessibility, including
                 features such as color blindness settings and dyslexia-friendly fonts so anyone can enjoy his games.</div>
             </about-text>
-
 </div>
+
 <div id="About_Me">
-            <img src="https://jwf23.github.io/assets/img/Jeremy.png" class="profile-pic2" alt="Jeremy">
+            <img src="https://jwf23.github.io/assets/img/Joey.png" class="profile-pic2" alt="Joey">
             <about-text>
-                <cap2 class="name">Jeremy Zuccarello,Team Lead and Programmer </cap2>
-                <div>Jeremy has his masters in mechanical engineering and is a game developer with a shipped Unity title,
-                XANDO:Xtreme & Over the Top. Using his background in both fields, he bridges the gap between physical and digital
-                experiences to create amusing and silly games. All of his projects have a focus in games accessibility, including
-                features such as color blindness settings and dyslexia-friendly fonts so anyone can enjoy his games.</div>
+                <cap2 class="name">Joey Fisher, Physical Design and Manufacturing</cap2>
+                <div>Joey has his PhD in mechanical engineer with experience in designing, manufacturing, and integrating
+                systems to solve complex engineering problems. He has worked with metals, wood, and plastics using manufacturing
+                techniques such as 3D printing, resin casting, laser cutting, and more. Joey can also use microcontrollers and
+                software such as C++, Arduino, and Python to integrate his physical systems into digital systems.</div>
             </about-text>
 
 </div>
 <div id="About_Me">
-            <img src="https://jwf23.github.io/assets/img/Jeremy.png" class="profile-pic2" alt="Jeremy">
+            <img src="https://jwf23.github.io/assets/img/Chloe.jpg" class="profile-pic2" alt="Chloe">
             <about-text>
-                <cap2 class="name">Jeremy Zuccarello,Team Lead and Programmer </cap2>
-                <div>Jeremy has his masters in mechanical engineering and is a game developer with a shipped Unity title,
-                XANDO:Xtreme & Over the Top. Using his background in both fields, he bridges the gap between physical and digital
-                experiences to create amusing and silly games. All of his projects have a focus in games accessibility, including
-                features such as color blindness settings and dyslexia-friendly fonts so anyone can enjoy his games.</div>
+                <cap2 class="name">Chloe Liunyan Liu, Composer & Sound Designer</cap2>
+                <div>Chloe is a composer and sound artist who explores the relationship between sound and movement. Her work
+                spans interactive electronic performance, concert music, and storytelling for film, animation, and games. She
+                creates immersive experiences that connect technology with human expression. Her work has been presented at 
+                festivals including Tribeca Festival and the Festival of Animation Berlin.</div>
             </about-text>
 
 </div>
 <div id="About_Me">
-            <img src="https://jwf23.github.io/assets/img/Jeremy.png" class="profile-pic2" alt="Jeremy">
+            <img src="https://jwf23.github.io/assets/img/Valentina.jpg" class="profile-pic2" alt="Valentina">
             <about-text>
-                <cap2 class="name">Jeremy Zuccarello,Team Lead and Programmer </cap2>
-                <div>Jeremy has his masters in mechanical engineering and is a game developer with a shipped Unity title,
-                XANDO:Xtreme & Over the Top. Using his background in both fields, he bridges the gap between physical and digital
-                experiences to create amusing and silly games. All of his projects have a focus in games accessibility, including
-                features such as color blindness settings and dyslexia-friendly fonts so anyone can enjoy his games.</div>
+                <cap2 class="name">Valentina Stanislavskaia, Programmer and 3D Artist</cap2>
+                <div>Valentina is a game developer and artist at Wirescribe Corp, where she has shipped two Unity titles,
+                Unwound and Fable Forts!, where she led multidisciplinary teams. Her work spans art direction, level design,
+                and systems engineering. As an engineer, she has worked on a variety low-level systems ranging from custom
+                game tooling to automated difficulty balancing.</div>
             </about-text>
 
 </div>
