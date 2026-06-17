@@ -44,11 +44,11 @@ div
 
 hr
 {
-    color: #cf0000;
-    border-color: #4b34e725;
+    /*color: #cf0000;*/
+    /*border-color: #4b34e725;*/
 
-    /*border-color: #cf000025;*/
-    /*color: #c4b34e7;*/
+    border-color: #cf000025;
+    color: #000088;
 }
 
 /*#region Videos*/
