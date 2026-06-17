@@ -1,5 +1,13 @@
-﻿
+﻿/*Navbar font*/
+.navbar-brand
+{
+    font-family: "SN Pro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
 
+/*Header font*/
 h1
 {
     color: #000000;
@@ -15,16 +23,32 @@ h1
     /*font-family: "Sniglet", system-ui;*/
     /*font-weight: 400;*/
     /*font-style: normal;*/
-    
-    /*font-family: "SN Pro", sans-serif;*/
-    /*font-optical-sizing: auto;*/
-    /*font-weight: 400;*/
-    /*font-style: normal;*/
+}
+
+.intro-header .page-heading .page-subheading
+{
+    font-family: "SN Pro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/*Main text font*/
+div
+{
+    font-family: "SN Pro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 
 hr
 {
     color: #cf0000;
+    border-color: #4b34e725;
+
+    /*border-color: #cf000025;*/
+    /*color: #c4b34e7;*/
 }
 
 /*#region Videos*/
