@@ -1,22 +1,20 @@
-﻿@media (min-width: 1200px) {
-    .container, .container-lg, .container-md, .container-sm, .container-xl {
-        max-width: 1200px !important;
-    }
+﻿
+
+h1
+{
+    color: #000000;
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
-@media (min-width: 1200px) {
-    .offset-xl-2 {
-        margin-left: 7% !important;
-        margin-right: 7% !important;
-    }
-}
-@media (min-width: 1200px) {
-    .col-xl-8 {
-         flex: 100% !important; 
-         max-width: 100% !important; 
-    }
+hr
+{
+    color: #cf0000;
 }
 
+/*#region Videos*/
+/*Top of site video*/
 mainvideo
 {
     display: flex;
@@ -25,6 +23,17 @@ mainvideo
     align-items: center;
 }
 
+/*All lower videos*/
+subvideo
+{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+/*#endregion*/
+
+/*#region Grid About Me*/
 .grid-container {
     display: grid;
     grid-template-columns: 47.5% 47.5%;
@@ -38,8 +47,7 @@ figcaption {
     padding-top: 10px;
     text-align: center;
 }
-img {
-}
+
 
 img.profile-pic
 {
@@ -51,9 +59,10 @@ figcaption.name
 {
     font-weight: bold;
 }
+/*#endregion*/
 
-
-cap2
+/*#region List About Me*/
+caption2
 {
     font-weight: bold;
 }
@@ -80,7 +89,9 @@ about-text
     justify-content: center;
     height: 100%;
 }
+/*#endregion*/
 
+/*#region FOR DIFFERENT ASPECT RATIOS*/
 @media (max-width: 990px) {
     about-text {
         font-size: 1.7vw;
@@ -131,3 +142,23 @@ about-text
         flex-direction: column;
     }
 }
+
+@media (min-width: 1200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1200px !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .offset-xl-2 {
+        margin-left: 7% !important;
+        margin-right: 7% !important;
+    }
+}
+@media (min-width: 1200px) {
+    .col-xl-8 {
+        flex: 100% !important;
+        max-width: 100% !important;
+    }
+}
+/*endregion*/
